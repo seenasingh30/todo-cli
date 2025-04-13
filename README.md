@@ -20,7 +20,7 @@ A simple and efficient command-line ToDo app built with Golang and [Cobra](https
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/todo-cli.git
+git clone https://github.com/seenasingh30/todo-cli.git
 cd todo-cli
 ```
 
