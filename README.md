@@ -1,4 +1,4 @@
-```markdown
+
 # ✅ ToDo CLI App
 
 A simple and efficient command-line ToDo app built with Golang and [Cobra](https://github.com/spf13/cobra).
